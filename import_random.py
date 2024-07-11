@@ -5,7 +5,7 @@ today_mood = random.choice(moods)
 
 print(f"Today's mood is {today_mood}.")
 if today_mood == "happy":
-    print("Enjoy your day!")
+    print("Enjoy your day!!")
 elif today_mood == "sad":
     print("Cheer up!")
 elif today_mood == "excited":
