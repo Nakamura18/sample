@@ -4,5 +4,5 @@ p {
     background: blue; /* 背景色を青に変更 */
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 60%; /*Github上で変更しました*/
 }
